@@ -29,6 +29,10 @@ File | Description
 [16-binary_tree_is_perfect.c](./16-binary_tree_is_perfect.c) | A function that checks if a binary tree is perfect.
 [17-binary_tree_sibling.c](./17-binary_tree_sibling.c) | A function that finds the sibling of a node.
 [18-binary_tree_uncle.c](./18-binary_tree_uncle.c) | A function that finds the uncle of a node.
+[100-binary_trees_ancestor.c](./100-binary_trees_ancestor.c) | A function that finds the lowest common ancestor of two nodes.
+[101-binary_tree_levelorder.c](./101-binary_tree_levelorder.c) | A function that goes through a binary tree using level-order traversal.
+[102-binary_tree_is_complete.c](./102-binary_tree_is_complete.c) | A function that checks if a binary tree is complete.
+[103-binary_tree_rotate_left.c](./103-binary_tree_rotate_left.c) | A function that performs a left-rotation on a binary tree.
 
 [binary_tree_print.c](./binary_tree_print.c) | Functions to print binary trees in a pretty way.
 
