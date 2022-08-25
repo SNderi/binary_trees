@@ -2,7 +2,7 @@
 
 /**
  * is_bst - Checks if a binary tree is a valid Binary Search Tree.
- * 
+ *
  * @tree: Pointer to the root node of the tree to check.
  * @min: Lower bound based on nodes checked.
  * @max: Upper bound based on nodes checked.
